@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="images/ShasmayLogo.jpg">ShasmayLogo.jpg</file>
+    <file alias="styles/styles.qss">styles.qss</file>
+  </qresource>
+</RCC>

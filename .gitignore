@@ -1,0 +1,38 @@
+﻿# Build outputs
+/build/
+/build-*/
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/Makefile
+/makefile
+/*.exe
+/*.dll
+/*.lib
+/*.a
+/*.o
+/*.obj
+/*.pdb
+
+# Deployment and generated runtime data
+/dist/
+/logs/
+*.sqlite
+*.sqlite3
+*.db
+*.ndjson
+
+# Local IDE and editor settings
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Private credentials and keys
+*.key
+*.pem
+*.p12
+*.pfx
+*.seed
+*.creds
